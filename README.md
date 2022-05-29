@@ -1,7 +1,8 @@
 # Freelancer-Management-System
 
 Freelancer Management System written in JavaFX
-mySQL dump file is in the DUMP directory
+
+mySQL dump file is in the Dump directory
 
 
 ## Login page:
